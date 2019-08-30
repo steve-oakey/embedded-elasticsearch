@@ -1,6 +1,7 @@
 rootProject.name = 'embedded-elasticsearch'
 
 include 'core'
+include 'junit4'
 include 'test-base'
 include 'es17-test'
 include 'es22-test'
@@ -8,3 +9,4 @@ include 'es50-test'
 include 'es55-test'
 include 'es60-test'
 include 'es63-test'
+
